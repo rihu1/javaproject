@@ -284,9 +284,9 @@ It is designed as a practical collection for learning **Advanced Java and Java W
 
 **Sanjay Yadav**
 
-GitHub: [@sanjayyadav61](https://github.com/sanjayyadav61)
+GitHub: [@rihu1](https://github.com/rihu1)
 
-Repository: [AdvancedJava01](https://github.com/sanjayyadav61/AdvancedJava01)
+Repository: [AdvancedJava01](https://github.com/rihu1/javaproject)
 
 ---
 
